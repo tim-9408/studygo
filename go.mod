@@ -1,6 +1,7 @@
 module studygo
 
 go 1.13
+
 require (
 	github.com/aliyun/aliyun-oss-go-sdk v2.0.2+incompatible
 	github.com/gin-contrib/cors v1.3.0
